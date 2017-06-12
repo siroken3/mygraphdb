@@ -1,0 +1,2 @@
+# mygraphdb
+graphdb study implementation
